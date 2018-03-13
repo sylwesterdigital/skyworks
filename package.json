@@ -1,18 +1,18 @@
 {
-  "name": "artist_stephanie",
-  "version": "1.0.4",
-  "description": "GSK Internal Website",
+  "name": "skyworks",
+  "version": "0.0.1",
+  "description": "Sky Works",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/mccannhealthlondon/10861301_internal_engagement_patient_websites.git"
+    "url": "git+ssh://https://github.com/sylwesterdigital/skyworks.git"
   },
-  "author": "sylwestermiel",
+  "author": "sylwestermielniczuk",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/mccannhealthlondon/10861301_internal_engagement_patient_websites#readme",
+  "homepage": "https://mielniczuk.com/clients/sky",
   "devDependencies": {
     "browser-sync": "^2.23.6",
     "gulp": "^3.9.1",
