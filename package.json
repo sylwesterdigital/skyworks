@@ -1,0 +1,40 @@
+{
+  "name": "artist_stephanie",
+  "version": "1.0.4",
+  "description": "GSK Internal Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/mccannhealthlondon/10861301_internal_engagement_patient_websites.git"
+  },
+  "author": "sylwestermiel",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/mccannhealthlondon/10861301_internal_engagement_patient_websites#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-bump": "^3.1.0",
+    "gulp-check-unused-css": "^2.1.4",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-local-screenshots": "^2.2.0",
+    "gulp-rsync": "0.0.8",
+    "gulp-sass": "^3.1.0",
+    "gulp-uncss": "^1.0.6",
+    "gulp-useref": "^3.1.4",
+    "gulp-version-number": "^0.1.7"
+  },
+  "dependencies": {
+    "colors": "^1.2.1",
+    "fs": "0.0.1-security",
+    "gulp-clean": "^0.3.2",
+    "gulp-cssfont64": "0.0.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-fontmin": "^0.7.4",
+    "gulp-if": "^2.0.2",
+    "gulp-uglify": "^3.0.0",
+    "useref": "^1.4.0"
+  }
+}

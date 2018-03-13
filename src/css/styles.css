@@ -1,0 +1,24 @@
+/* main SCSS file */
+/*
+	_base.scss
+*/
+body {
+  border: 0 none;
+  outline: 0;
+  padding: 0;
+  margin: 0;
+  background-color: white;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  box-sizing: content-box;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-overflow-scrolling: touch; }
+  body * {
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    box-sizing: content-box;
+    border: none;
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent; }
